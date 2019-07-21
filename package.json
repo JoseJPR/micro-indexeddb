@@ -1,7 +1,7 @@
 {
   "name": "micro-indexeddb",
-  "version": "1.0.0",
-  "description": "💾 Micro library JavaScript for implementation local DB IndexedDB that is durable and scalable.",
+  "version": "1.0.1",
+  "description": "💎 Micro JavaScript Library for implementation local 💾 Database IndexedDB that is durable and scalable.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

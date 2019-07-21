@@ -1,6 +1,6 @@
 # Micro IndexedDB [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-💾 Micro library JavaScript for implementation local DB IndexedDB that is durable and scalable. Include this library into your native JavaScript application with embed script type module or your React, Angular and others frameworks with npm module.
+💎 Micro JavaScript Library for implementation local 💾 Database IndexedDB that is durable and scalable. Include this library into your native JavaScript application with embed script type module or your React, Angular and others frameworks with npm module.
 
 ![IndexedDB](src/screen.jpg)
 
