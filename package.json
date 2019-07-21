@@ -1,0 +1,24 @@
+{
+  "name": "micro-indexeddb",
+  "version": "1.0.0",
+  "description": "💾 Micro library JavaScript for implementation local DB IndexedDB that is durable and scalable.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseJPR/micro-indexeddb.git"
+  },
+  "keywords": [
+    "IndexedDB",
+    "Browser Storage",
+    "JavaScript"
+  ],
+  "author": "José J. Pérez Rivas <me@josejpr.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseJPR/micro-indexeddb/issues"
+  },
+  "homepage": "https://github.com/JoseJPR/micro-indexeddb#readme"
+}
