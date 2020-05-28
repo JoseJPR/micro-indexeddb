@@ -16,7 +16,7 @@
     "JavaScript"
   ],
   "author": "José J. Pérez Rivas <me@josejpr.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/JoseJPR/micro-indexeddb/issues"
   },
